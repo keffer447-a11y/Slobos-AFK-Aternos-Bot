@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Lix",
+    "username": "Technoblade",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Lifesteal1213SMP.aternos.me",
